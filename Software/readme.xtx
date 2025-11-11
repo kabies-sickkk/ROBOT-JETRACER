@@ -4,3 +4,4 @@ ESP32-pca9685
 +SCL-22
 +VCC-3v3
 +GND-GND
++ V+: 5v3(nguồn ngoài)
